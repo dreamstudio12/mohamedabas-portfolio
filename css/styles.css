@@ -1,0 +1,11 @@
+.banner{
+    background-image: url(../img/idea2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    padding: 250px 0;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
